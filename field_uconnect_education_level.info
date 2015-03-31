@@ -1,0 +1,7 @@
+name = Field UCARConnect Education Level
+description = Provides controlled vocabulary for UCARConnect Education Level
+
+dependencies[] = uconnect
+package = "UCARConnect"
+version = "7.x-1.0"
+core = 7.x
